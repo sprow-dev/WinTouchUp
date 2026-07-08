@@ -7,7 +7,10 @@ The best way to theme Windows for free. With an active developer, frequent updat
 Go to releases and select the latest one. I suggest reading the release description before downloading.
 
 ## Help! It doesn't work!
-Follow troubleshooting steps in release description.
+Open an issue.
 
 ## I want feature X!
-Create a pull request and do it yourself or create an issue and tag it with feature and I will do it if I believe that it is a reasonable change.
+Create a pull request and do it yourself or create an issue (**PROPERLY TEMPLATED**) and I will do it if I believe that it is a reasonable change.
+
+## Contact
+[Formal inquiries only!](https://forms.gle/GujhGWC16Ztv3piE8)
