@@ -5,27 +5,34 @@ I hope to see some code soon! If you know anything about me, you know that I am 
 of my time. The fact that you might take time to actually help me by writing code is very important and I can't thank you enough.
 
 ## Environment setup
-Clone the repo, open WinTouchUp.slnx in the latest version of Visual Studio (2022+) with .NET Desktop Application Development (.NET 10, WinForms enabled) toggled on.
+1. Clone the repo.
+2. Open Visual Studio 2022+
+3. Ensure that .NET Desktop Development is enabled.
+4. Open the SLNX solution file in Visual Studio
 
 That's all!
 
 ## Code Quality and Formatting
-I expect code that is reasonably exempt from:
-Crashes, errors, warnings, UX-degrading slowness, and otherwise.
-You must deem the code production-worthy.
-That would generally be if you fixed all the listed issues before submitting.
-Almost always, I will nitpick the code. However, I will try to fix it myself, and whatever I don't have time to finish will be offloaded to you.
+### Commenting:
+Please use one of the 2 following formats to comment your code:
+// FMLas: Comment
+(F for first name, M for middle name/anything if N/A, Las for first 3 letters of last name)
+// Github-Username: Comment
+(You may use a similar derivative like I do)
 
-I generally handle these (PRs are priority) during lunch break so I have very tight timing.
-However, you should almost always be able to get a PR merge without any revisions by you.
+### Style:
+Case conventions do not matter.
+4 space tab indentation must be used
+If you do not use Visual Studio (not recommended), ensure all files use CRLF line breaks.
+Please do not excessively comment. Use your best judgement to decide what "excessive commenting is", I will not be super strict.
 
-The code should be reasonably exempt from style violations, but naming violations are not as important.
-Comments should be written as: // GITHUB USERNAME OR ONLINE ALIAS: Comment body.
-For the purpose of liabilty to the writers of the code, I will ask you to fix it yourself if I see that happen.
+### Quality:
+There should be no compiler errors or warnings at all and code style violations should be minimized (but you will not be faulted if there are a few).
+Line breaks should be spaced at most every 200 characters, but if avoidable, do not write lines more than 150 characters.
+Code should be good enough that you could step away in 1 year and still read it.
 
-Others' comments:
-Unless you are deleting a section of code and that comment would be orphaned, I ask that you be respectful of others' code comments and not delete them.
-If you have anything to add, make your own comment.
+I'm currently in the process of writing a rubric-based LLM code reviewer so when I publish that, I can place standards for that here.
+(It will strongly recommend a local model, but if you insist, you may use OpenRouter. Please keep that in mind.)
 
 ## Respect
 I do not believe that this should ever be needed, but it's here for liability purposes and future reference.
