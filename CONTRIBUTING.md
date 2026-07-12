@@ -32,7 +32,7 @@ Line breaks should be spaced at most every 200 characters, but if avoidable, do 
 Code should be good enough that you could step away in 1 year and still read it.
 
 I'm currently in the process of writing a rubric-based LLM code reviewer so when I publish that, I can place standards for that here.
-(It will strongly recommend a local model, but if you insist, you may use OpenRouter. Please keep that in mind.)
+(You will need to run a local model, keep that in mind.)
 
 ## Respect
 I do not believe that this should ever be needed, but it's here for liability purposes and future reference.
