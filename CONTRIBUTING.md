@@ -29,10 +29,7 @@ Please do not excessively comment. Use your best judgement to decide what "exces
 ### Quality:
 There should be no compiler errors or warnings at all and code style violations should be minimized (but you will not be faulted if there are a few).
 Line breaks should be spaced at most every 200 characters, but if avoidable, do not write lines more than 150 characters.
-Code should be good enough that you could step away in 1 year and still read it.
-
-I'm currently in the process of writing a rubric-based LLM code reviewer so when I publish that, I can place standards for that here.
-(You will need to run a local model, keep that in mind.)
+Code should be good enough that you could step away for 1 year and still be able to read it.
 
 ## Respect
 I do not believe that this should ever be needed, but it's here for liability purposes and future reference.
