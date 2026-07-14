@@ -8,6 +8,8 @@ Got it?
 # WinTouchUp
 The best way to theme Windows for free. With an active developer, frequent updates, and constant feature updates, there is nothing more satisfying than using this functional tool for your everyday theming needs.
 
+Project was created June 26, 2026.
+
 ## How to use?
 Go to releases and select the latest one. I suggest reading the release description before downloading.
 
@@ -19,7 +21,3 @@ Create a pull request and do it yourself or create an issue (**PROPERLY TEMPLATE
 
 ## Contact
 [Formal inquiries only!](https://forms.gle/GujhGWC16Ztv3piE8)
-
-
-
-Started this project June 26, 2026.
