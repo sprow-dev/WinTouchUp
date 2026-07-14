@@ -19,3 +19,7 @@ Create a pull request and do it yourself or create an issue (**PROPERLY TEMPLATE
 
 ## Contact
 [Formal inquiries only!](https://forms.gle/GujhGWC16Ztv3piE8)
+
+
+
+Started this project June 26, 2026.
