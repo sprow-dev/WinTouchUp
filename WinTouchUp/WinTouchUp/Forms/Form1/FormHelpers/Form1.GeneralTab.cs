@@ -38,7 +38,7 @@ namespace WinTouchUp
                 try
                 {
                     reg.SetRegistryValue("overallTheme", "AppsUseLightTheme", 0x01, RegistryValueKind.DWord);
-                    reg.SetRegistryValue("overallTheme", "AppsUseLightTheme", 0x01, RegistryValueKind.DWord);
+                    reg.SetRegistryValue("overallTheme", "SystemUsesLightTheme", 0x01, RegistryValueKind.DWord);
                 }
                 catch (Exception ex)
                 {
@@ -54,7 +54,7 @@ namespace WinTouchUp
                 try
                 {
                     reg.SetRegistryValue("overallTheme", "AppsUseLightTheme", 0x00, RegistryValueKind.DWord);
-                    reg.SetRegistryValue("overallTheme", "AppsUseLightTheme", 0x00, RegistryValueKind.DWord);
+                    reg.SetRegistryValue("overallTheme", "SystemUsesLightTheme", 0x00, RegistryValueKind.DWord);
                 }
                 catch (Exception ex)
                 {
